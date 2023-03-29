@@ -1,0 +1,202 @@
+{
+    "23.03.23": [
+        {
+            "name": "Marcin Wiśniewski",
+            "start_time": "17:00",
+            "end_time": "18:00"
+        },
+        {
+            "name": "Michał Najman",
+            "start_time": "18:00",
+            "end_time": "19:00"
+        }
+    ],
+    "24.03.23": [
+        {
+            "name": "Tadeusz Stockinger",
+            "start_time": "11:00",
+            "end_time": "12:30"
+        },
+        {
+            "name": "Robert Brzozowski",
+            "start_time": "12:30",
+            "end_time": "14:00"
+        },
+        {
+            "name": "Norman Dudziuk",
+            "start_time": "16:30",
+            "end_time": "17:00"
+        }
+    ],
+    "25.03.23": [
+        {
+            "name": "Klaus Sevkovic",
+            "start_time": "14:00",
+            "end_time": "14:30"
+        }
+    ],
+    "26.03.23": [],
+    "27.03.23": [
+        {
+            "name": "Paweł Gulczyński",
+            "start_time": "12:00",
+            "end_time": "13:30"
+        },
+        {
+            "name": "Mieczysław Okniński",
+            "start_time": "13:30",
+            "end_time": "14:00"
+        }
+    ],
+    "28.03.23": [],
+    "29.03.23": [
+        {
+            "name": "m",
+            "start_time": "12:00",
+            "end_time": "12:30"
+        },
+        {
+            "name": "g",
+            "start_time": "16:00",
+            "end_time": "16:30"
+        }
+    ],
+    "30.03.23": [
+        {
+            "name": "Tarek",
+            "start_time": "10:00",
+            "end_time": "11:30"
+        },
+        {
+            "name": "t",
+            "start_time": "11:45",
+            "end_time": "12:45"
+        },
+        {
+            "name": "h",
+            "start_time": "13:00",
+            "end_time": "14:00"
+        }
+    ],
+    "04.04.23": [
+        {
+            "name": "TareK",
+            "start_time": "12:00",
+            "end_time": "12:30"
+        }
+    ],
+    "29.04.23": [
+        {
+            "name": "Tarek",
+            "start_time": "13:00",
+            "end_time": "13:30"
+        },
+        {
+            "name": "Tarek",
+            "start_time": "15:00",
+            "end_time": "15:30"
+        }
+    ],
+    "25.05.23": [
+        {
+            "name": "Tarek",
+            "start_time": "10:00",
+            "end_time": "10:30"
+        },
+        {
+            "name": "Tarek",
+            "start_time": "12:00",
+            "end_time": "12:30"
+        }
+    ],
+    "29.06.23": [
+        {
+            "name": "Tarek",
+            "start_time": "10:00",
+            "end_time": "10:30"
+        },
+        {
+            "name": "Tarek",
+            "start_time": "18:00",
+            "end_time": "18:30"
+        }
+    ],
+    "29.07.23": [
+        {
+            "name": "Tarek",
+            "start_time": "10:00",
+            "end_time": "10:30"
+        },
+        {
+            "name": "Tarek",
+            "start_time": "11:00",
+            "end_time": "11:30"
+        }
+    ],
+    "29.08.23": [
+        {
+            "name": "Tarek",
+            "start_time": "11:00",
+            "end_time": "11:30"
+        }
+    ],
+    "29.09.23": [
+        {
+            "name": "Tarek",
+            "start_time": "12:00",
+            "end_time": "12:30"
+        }
+    ],
+    "29.9.23": [
+        {
+            "name": "g",
+            "start_time": "17:45",
+            "end_time": "18:15"
+        }
+    ],
+    "10.10.23": [
+        {
+            "name": "tarek",
+            "start_time": "10:10",
+            "end_time": "10:40"
+        },
+        {
+            "name": "tarek",
+            "start_time": "10:10",
+            "end_time": "10:40"
+        }
+    ],
+    "29.10.23": [
+        {
+            "name": "Tarek",
+            "start_time": "11:00",
+            "end_time": "11:30"
+        },
+        {
+            "name": "Tarek",
+            "start_time": "12:00",
+            "end_time": "12:30"
+        },
+        {
+            "name": "g",
+            "start_time": "17:45",
+            "end_time": "18:15"
+        }
+    ],
+    "29.11.23": [
+        {
+            "name": "Test1",
+            "start_time": "18:30",
+            "end_time": "20:00"
+        },
+        {
+            "name": "Test1",
+            "start_time": "20:30",
+            "end_time": "22:00"
+        }
+    ],
+    "10.12.23": [],
+    "11.12.23": [],
+    "12.12.23": [],
+    "29.12.23": []
+}
