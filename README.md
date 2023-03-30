@@ -1,4 +1,4 @@
-# Tennis Court Reservation Systerm
+# Tennis Court Reservation System
 #### tarektouma98@gmail.com
 The Tennis Court Reservation System is a platform for reserving tennis courts at a club or facility. The system allows users to view court availability and book a court for a specific date and time.
 ##### Installation
